@@ -1,6 +1,6 @@
 # Analysis of Kickstarter campigns for musical theater in Great Britian
 
-# Using Excel to analyze Kickstarter data about theatrical productions
+## Using Excel to analyze Kickstarter data
 
 The goal of this analysis is to provide insight into the best configuration for a Kickstarter campaign in Great Britian for a musical theater production.
 
