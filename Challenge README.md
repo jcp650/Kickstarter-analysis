@@ -23,3 +23,6 @@ After filling this conversion throughout all rows in the data set, a pivot table
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 Figure 1 shows that May has the most successful and failed launches. Although May shows the most failed campaigns, it also shows the greatest difference between successful and failed campaigns. From 2009 to 2017, there were 111 successful campaigns launched and 52 failed campaigns in May. In contrast, there were 37 successful campaigns and 35 failed campaigns in December. With this in mind, May is the best time to launch a Kickstarter campaign for theater. 
+
+### Analysis of Outcomes Based on Goals
+For a campaign to be successful on the Kickstarter platform, finding the appropriate goal amount is important. Setting too high of a goal will decrease the chances of that goal being reached, while setting too low of a goal will not provide the campaign with enough funding to complete the project. 
