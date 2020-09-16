@@ -19,13 +19,13 @@ Below are data-driven suggestions based on the client's goal of running a succes
 
 As noted earlier, plays and musicals have a higher success rate than other Kickstarter campaigns. However, there are certain steps that should be taken to further the chance of success. The campaign should be begin in May to increase the likelihood of success, and should be around a month long. The goal of the clint's Kickstarter campaign would preferably be lower than $4,000 to increase the chances of complete funding. Using these metrics to create a Kickstarter campaign should increase the potential for the client's success. 
 
-## Figure 1
+### Figure 1
 ![](images/Theater%20Outcomes%20Graph.png)
-## Figure 2
+### Figure 2
 ![](images/Outcomes%20by%20Campaign%20Length%20Chart.png)
-## Figure 3
+### Figure 3
 ![](images/Parent%20Category%20Outcomes%20Chart.png)
-## Figure 4
+### Figure 4
 ![](images/Outcomes%20by%20Subcategory%20Chart.png)
-## Figure 5
+### Figure 5
 ![](images/Box%20and%20Whisker.png)
