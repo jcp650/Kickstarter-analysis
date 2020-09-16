@@ -1,4 +1,4 @@
-# Analysis of Kickstarter campigns for musical theater in Great Britian
+# Analysis of Kickstarter campigns for musical theater in Great Britain
 
 ## Using Excel to analyze Kickstarter data
 
