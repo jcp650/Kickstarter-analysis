@@ -22,4 +22,4 @@ After filling this conversion throughout all rows in the data set, a pivot table
 ### Figure 1
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
-Figure 1 shows that May has the most successful launches while October has the most the most failed launches. In other words, campaigns launched after May tend to be less successful. Figure 1 decidedly demonstrates that May is the best time to launch a Kickstarter campaign for theater. 
+Figure 1 shows that May has the most successful launches while October has the most failed launches. In other words, campaigns launched after May tend to be less successful. Figure 1 decidedly demonstrates that May is the best time to launch a Kickstarter campaign for theater. 
