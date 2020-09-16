@@ -17,4 +17,7 @@ The Unix timestamp was divided by 60 (for seconds), then 60 (for minutes), then 
 ```
 Month/Day/Year Hours:Minutes
 ```
-After filling this conversion throughout all rows in the data set, a pivot table was created to create a subset of relevant launch date information. The pivot table filtered on the parent category and years variables, with outcomes (excluding live campaigns) as the column varaible, launch date conversion as the row variable, and count of outcomes as the value. Next, the rows were grouped by month instead of date to provide more accurate data for the best time to launch. With this information, a graph was created to visualize the outcomes of Kickstarter campaigns based on their launch date. 
+After filling this conversion throughout all rows in the data set, a pivot table was created to create a subset of relevant launch date information. The pivot table filtered on the parent category and years variables, with outcomes (excluding live campaigns) as the column varaible, launch date conversion as the row variable, and count of outcomes as the value. Next, the rows were grouped by month instead of date to provide more accurate data for the best time to launch. With this information, a graph was created to visualize the outcomes of Kickstarter campaigns based on their launch date (figure 1).
+
+### Figure 1
+![](Resources/Theater_Outcome_vs_Launch.png)
