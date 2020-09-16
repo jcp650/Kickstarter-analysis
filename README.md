@@ -2,7 +2,7 @@
 
 ## Using Excel to analyze Kickstarter data
 
-The goal of this analysis is to provide insight into the best configuration for a Kickstarter campaign in Great Britian for a musical theater production.
+The goal of this project is to provide insight into the best configuration for a Kickstarter campaign in Great Britian for a musical theater production.
 
 Listed below are a selection of notable trends that became evident through analyzing Kickstarter data. 
 
