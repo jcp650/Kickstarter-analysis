@@ -40,3 +40,6 @@ Using the information acquired in figure 2, a line graph was created to visualiz
 ![](Resources/Outcomes_vs_Goals.png)
 
 Figure 3 demonstrates that campaign goals of less than $1,000 have the highest success rate (75.81%) while goals of $1,000 to $4,999 have the second highest success rate (72.66%). Interstingly, campaign goals of $35,000 to $39,999 and $40,000 to $44,999 have the third highest success rate (66.67%). Because there were no canceled campaigns for plays, the success and failure rates mirror eachother throughout this chart. Campaign goals of more than $44,999 had the highest rate of failure.
+
+### Challenges and Difficulties
+One challenge that I encountered was a lack of information on the client's strategy for the *Fever* Kickstarter campaign. Because there  was no campaign length provided, I could not effectively analyze how the length of the campaign would effect the potential outcome. I could have subtracted the end date from the launch date and created a table similar to figure 2 for the success rate based on campaign length. Calculating the success rate based on campaign length would be a highly valuable metric to accompany the success rate based on launch date.
