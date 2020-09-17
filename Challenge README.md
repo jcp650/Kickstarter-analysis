@@ -25,4 +25,9 @@ After filling this conversion throughout all rows in the data set, a pivot table
 Figure 1 shows that May has the most successful and failed launches. Although May shows the most failed campaigns, it also shows the greatest difference between successful and failed campaigns. From 2009 to 2017, there were 111 successful campaigns launched and 52 failed campaigns in May. In contrast, there were 37 successful campaigns and 35 failed campaigns in December. With this in mind, May is the best time to launch a Kickstarter campaign for theater. 
 
 ### Analysis of Outcomes Based on Goals
-For a campaign to be successful on the Kickstarter platform, finding the appropriate goal amount is important. Setting too high of a goal will decrease the chances of that goal being reached, while setting too low of a goal will not provide the campaign with enough funding to complete the project. 
+For a campaign to be successful on the Kickstarter platform, finding the appropriate goal amount is important. Setting too high of a goal will decrease the chances of that goal being reached, while setting too low of a goal will not provide the campaign with enough funding to complete the project. Using the Kickstarter data on goal amounts and success rates was the most effective method for analyzing the relationship between campaign goals and outcomes. To start this analysis, defining the ranges of the goals was imperative to finding the amount of successful, failed, and canceled campaigns for plays. Figure 2 shows the ranges of goals, as well as the campaign outcome rate associated with each goal range. Excel's COUNTIFS function was used to algorithmically filter the outcomes based on the goal range. The equation used is:
+```
+=COUNTIFS(outcome_column, "outcome", goal_column, ">=amount_range_minimum", goal_column, "<=amount_range_maximum", subcategory_column, "plays")
+```
+
+
