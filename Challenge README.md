@@ -4,7 +4,7 @@
 This project compares the client's Kickstarter campaign for the play *Fever* with related Kickstarter campaigns. The client is very close to being successful in reaching the fundraising goal, and requested a comparative analysis for the *Fever* campaign performance.
 
 ### Purpose
-Comparing the performance of the Kickstarter campaign for *Fever* with other campaigns will provide insight into how the client's campaign performed in relation to other campaigns for plays in Great Britain. This analysis will provide useful metrics for gauging the success of the *Fever* campaign while informing the launch and structure of future campaigns. 
+Comparing the performance of the Kickstarter campaign for *Fever* with other campaigns will provide insight into how the client's campaign performed in relation to other fundraising campaigns for plays. This analysis will provide useful metrics for gauging the success of the *Fever* campaign while informing the launch and structure of future campaigns. 
 
 ## Analysis and Challenges
 
