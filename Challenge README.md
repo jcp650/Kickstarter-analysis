@@ -29,7 +29,7 @@ Defining an appropriate goal amount is a foundational component of any Kickstart
 ```
 =COUNTIFS(outcome_column, "outcome", goal_column, ">=amount_range_minimum", goal_column, "<=amount_range_maximum", subcategory_column, "plays")
 ```
-Once the number of outcomes based on the goal range was calculated, the total amount of projects and the percentage of outcomes for each goal range was calculated. The percentages of outcomes provides accurate data for how well a campaign will perform based on its goal amount. Figure 2 shows the completed table that highlights the relationship between campaign outcome and goal amount for Kickstarter campaigns for plays. 
+Once the number of outcomes based on the goal range was calculated, the total amount of projects and the percentage of outcomes for each goal range was calculated. The percentages of outcomes provides accurate data for how well a campaign performed based on its goal amount. Figure 2 shows the completed table that highlights the relationship between campaign outcome and goal amount for Kickstarter campaigns for plays. 
 
 ### Figure 2
 ![](Resources/Descriptive_Goal_Statistics.png)
